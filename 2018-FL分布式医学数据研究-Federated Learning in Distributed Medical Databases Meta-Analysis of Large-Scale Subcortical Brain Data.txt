@@ -1,0 +1,9 @@
+Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data
+
+Santiago Silva1, Boris A. Gutman2, Eduardo Romero3, Paul M. Thompson4, Andre Altmann5, Marco Lorenzi1, and for ADNI, PPMI, and UK Biobank*
+
+应用型 联邦学习在分布式医疗的应用
+
+此时，全世界的数据库都包含以前难以想象的数字的大脑图像。结合数据科学的发展，这些海量数据提供了更好地理解脑疾病遗传基础的潜力。然而，由于隐私和法律问题，存储在不同机构的不同数据集不能总是直接共享，因此限制了大脑无序研究中大数据的充分利用。在这里，我们提出了一个联合学习框架，用于安全地访问和元分析任何生物医学数据，而无需共享个人信息。我们通过调查跨疾病和临床合作的大脑结构关系来说明我们的框架。该框架首先在合成数据上进行测试，然后应用于多中心，多数据库研究，包括ADNI，PPMI，MIRIAD和UK Biobank，显示该方法在多中心队列分布式分析中的进一步应用潜力。
+关键词：联邦学习，分布式数据库，PCA，SVD，荟萃分析，脑疾病。
+

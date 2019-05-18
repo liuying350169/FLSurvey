@@ -1,0 +1,9 @@
+FEDERATED LEARNING FOR KEYWORD SPOTTING
+
+David Leroy, Alice Coucke, Thibaut Lavril, Thibault Gisselbrecht and Joseph Dureau
+
+
+
+
+我们提出了一种基于联合学习的实用方法，通过连续运行基于语音的嵌入式模型（如唤醒字检测器）来解决域外问题。我们基于模仿唤醒词用户联盟的众包数据集，对“Hey Snips”唤醒词的馈送平均算法进行了广泛的实证研究。我们凭经验证明，使用来自Adam的自适应平均策略代替标准加权模型平均值大大减少了达到目标性能所需的通信轮数。每个用户的相关上游通信成本估计为8 MB，这在智能家庭语音助理的背景下是合理的。此外，用于这些实验的数据集是开源的，目的是促进联邦学习应用于语音数据的进一步透明研究。
+索引术语 - 关键字定位，唤醒字检测，联合学习
